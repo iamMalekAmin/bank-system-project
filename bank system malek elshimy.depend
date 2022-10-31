@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556615012 source:d:\aaaa\bank system malek elshimy\main.cpp
+	<iostream>
+	<String>
+	<cstdlib>
+	<string.h>
+
